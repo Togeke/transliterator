@@ -1,2 +1,4 @@
 # transliterator
 Made this for fun a bit buggy but it works
+
+You can always change the mapping to make it work for different languages i'm just too lazy to do that.
